@@ -1,6 +1,6 @@
-#Django REST API Note-taker
+# Django REST API Note-taker
  
-Simple API created using Django and a library called TastyPie.
+### Simple API created using Django and a library called TastyPie.
 
 Used this project for learning the use of Django in basic REST APIs and CRUD operations.
 The goal was building a REST-ful API with the CRUD endpoints, to create, read, update, and delete notes.
